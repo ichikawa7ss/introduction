@@ -37,13 +37,10 @@
 
 1. [TestFlight](https://apps.apple.com/jp/app/testflight/id899247664)のインストール
 2. こちらのリンク（ https://testflight.apple.com/join/p5qYvj95 ）をタップします。
-3. 表示された「ホメトケ」について同意するをタップ
+3. ホメトケが表示されたら「同意する」をタップ
 4. 続けて「インストール」をタップしてアプリを起動
 
 ![インストール](https://user-images.githubusercontent.com/42941654/68700615-8c14e880-05c8-11ea-805a-70eb2405a5ec.GIF)
-
-※TestFlightでのテストについて詳しい手順・詳細はこちら🔽（今回は"パブリックリンクでの招待"に該当）   https://testflight.apple.com/join/p5qYvj95 
-<img width="877" alt="スクリーンショット 2019-11-13 0 50 53" src="https://user-images.githubusercontent.com/42941654/68686949-c58d2a00-05af-11ea-88bb-430597f83831.png">
 
 ## テストユーザでの遊び方
  
@@ -65,6 +62,7 @@
     - ポイントを使って匿名を開示します
     - 芸能人からホメられる喜びに浸ります
     - SNSでシェアします
+    
 ## プロジェクト紹介
 
 ### TOMOSHIBI
